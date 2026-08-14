@@ -47,7 +47,7 @@ Each mesh-preparation routine writes a MAT file containing a scalar structure na
 
 If you use this code, please cite:
 
-> Lee, Jae Young. “Hidden Mechanical Information Beyond the Static Limit”
+> Lee, Jae Young. “Hidden Mechanical Information Beyond the Static Limit,”
 > *Submitted*
 
 ## License
