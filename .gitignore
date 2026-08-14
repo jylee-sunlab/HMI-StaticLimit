@@ -1,0 +1,22 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# Generated mesh files
+mesh_*.mat
+mesh_*_work/
+*.msh
+*.geo
+*.geo_unrolled
+
+# Generated analysis results
+*_HMI_results/
+
+# Generated figures and local outputs
+*.fig
+*.eps
+
+# OS files
+.DS_Store
+Thumbs.db
