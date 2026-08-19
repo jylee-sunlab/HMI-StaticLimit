@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
-title: "HMI-StaticLimit: Hidden Mechanical Information Beyond the Static Limit"
+title: "Hidden Mechanical Information beyond the Static Limit"
 authors:
   - family-names: "Lee"
     given-names: "Jae Young"
-    orcid: "https://orcid.org/0000-0002-6438-2699"
-license: "MIT"
+    orcid: "https://orcid.org/0000-0002
